@@ -5,6 +5,7 @@ public class EmployeeLinkedList
     private EmployeeNode head;
     private int size = 0;
 
+
     //to add an employee (given first, last name and id)
     public void addToStart(Employee employeeToAdd){
 
